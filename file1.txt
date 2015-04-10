@@ -3,3 +3,5 @@ first file checked in
 this line should be merged again
 
 another line
+
+another line
