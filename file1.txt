@@ -1,3 +1,5 @@
 first file checked in
 
-this line should be merged
+this line should be merged again
+
+another line
